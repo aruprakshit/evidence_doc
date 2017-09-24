@@ -1,0 +1,143 @@
+{
+  "Allele evidence": {
+    "value": "CLI-aaSAoQ-EV",
+    "properties": {
+      "Subject": {
+        "value": "http://reg.genome.network/allele/CA316821",
+        "properties": {
+          "Phenotype": {
+            "value": "Unknown"
+          },
+          "Mode of inheritance": {
+            "value": "Unknown"
+          },
+          "Evidence Tags": {
+            "items": [
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Multiple lines of computational evidence support a deleterious effect on the gene or gene product"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        },
+                        "Links": {
+                          "items": [
+                            {
+                              "Link": {
+                                "value": "https://www.ncbi.nlm.nih.gov/pubmed/20837862",
+                                "properties": {
+                                  "Comment": {
+                                    "value": "20837862"
+                                  },
+                                  "Link Code": {
+                                    "value": "Supports"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PM5",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Novel missense change at an amino acid residue where a different missense change determined to be pathogenic has been seen before"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Moderate"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Well-established functional studies show a deleterious effect"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Functional Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP5",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Reputable source recently reports variant as pathogenic, but the evidence is not available to the laboratory to perform an independent evaluation"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Other Database"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "Allele evidence": {
+    "value": "CLI-UB9qgR-EV",
+    "properties": {
+      "Subject": {
+        "value": "http://reg.genome.network/allele/CA10602180",
+        "properties": {
+          "Phenotype": {
+            "value": "Unknown"
+          },
+          "Mode of inheritance": {
+            "value": "Unknown"
+          },
+          "Evidence Tags": {
+            "items": [
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PM2",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Absent from controls (or at extremely low frequency if recessive) in Exome Sequencing Project, 1000 Genomes Project, or Exome Aggregation Consortium"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Moderate"
+                        },
+                        "Type": {
+                          "value": "Population Data"
+                        },
+                        "Links": {
+                          "items": [
+                            {
+                              "Link": {
+                                "value": "https://www.ncbi.nlm.nih.gov/pubmed/18487244",
+                                "properties": {
+                                  "Comment": {
+                                    "value": "18487244"
+                                  },
+                                  "Link Code": {
+                                    "value": "Supports"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS4",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Prevalence in affecteds statistically increased over controls"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Population Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Multiple lines of computational evidence support a deleterious effect on the gene or gene product"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PM4",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Protein length changes as a result of in-frame deletions/insertions in a nonrepeat region or stop-loss variants"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Moderate"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PVS1",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Predicted nullvariant in a gene where LOF is a known mechanism of disease"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Very Strong"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP1",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Cosegregation with disease in multiple affected family members in a gene definitively known to cause the disease"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Segregation Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

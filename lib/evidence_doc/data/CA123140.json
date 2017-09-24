@@ -1,0 +1,100 @@
+{
+  "Allele evidence": {
+    "value": "CLI-lK29XJ-EV",
+    "properties": {
+      "Subject": {
+        "value": "http://reg.genome.network/allele/CA123140",
+        "properties": {
+          "Phenotype": {
+            "value": "Unknown"
+          },
+          "Mode of inheritance": {
+            "value": "Unknown"
+          },
+          "Evidence Tags": {
+            "items": [
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Multiple lines of computational evidence support a deleterious effect on the gene or gene product"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS1",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Same amino acid change as an established pathogenic variant"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP5",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Reputable source recently reports variant as pathogenic, but the evidence is not available to the laboratory to perform an independent evaluation"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Other Database"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

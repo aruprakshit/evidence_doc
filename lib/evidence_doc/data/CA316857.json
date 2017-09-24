@@ -1,0 +1,143 @@
+{
+  "Allele evidence": {
+    "value": "CLI-qxdQNw-EV",
+    "properties": {
+      "Subject": {
+        "value": "http://reg.genome.network/allele/CA316857",
+        "properties": {
+          "Phenotype": {
+            "value": "Unknown"
+          },
+          "Mode of inheritance": {
+            "value": "Unknown"
+          },
+          "Evidence Tags": {
+            "items": [
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PM2",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Absent from controls (or at extremely low frequency if recessive) in Exome Sequencing Project, 1000 Genomes Project, or Exome Aggregation Consortium"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Moderate"
+                        },
+                        "Type": {
+                          "value": "Population Data"
+                        },
+                        "Links": {
+                          "items": [
+                            {
+                              "Link": {
+                                "value": "https://www.ncbi.nlm.nih.gov/pubmed/12707443",
+                                "properties": {
+                                  "Comment": {
+                                    "value": "12707443"
+                                  },
+                                  "Link Code": {
+                                    "value": "Supports"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PM4",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Protein length changes as a result of in-frame deletions/insertions in a nonrepeat region or stop-loss variants"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Moderate"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Well-established functional studies show a deleterious effect"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Functional Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PP5",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Reputable source recently reports variant as pathogenic, but the evidence is not available to the laboratory to perform an independent evaluation"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Supporting"
+                        },
+                        "Type": {
+                          "value": "Other Database"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

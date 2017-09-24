@@ -1,0 +1,134 @@
+{
+  "Allele evidence": {
+    "value": "CLI-pdaDXp-EV",
+    "properties": {
+      "Subject": {
+        "value": "http://reg.genome.network/allele/CA316834",
+        "properties": {
+          "Phenotype": {
+            "value": "Unknown"
+          },
+          "Mode of inheritance": {
+            "value": "Unknown"
+          },
+          "Evidence Tags": {
+            "items": [
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS4",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Prevalence in affecteds statistically increased over controls"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Population Data"
+                        },
+                        "Links": {
+                          "items": [
+                            {
+                              "Link": {
+                                "value": "https://www.ncbi.nlm.nih.gov/pubmed/15351195",
+                                "properties": {
+                                  "Comment": {
+                                    "value": "15351195;16401742"
+                                  },
+                                  "Link Code": {
+                                    "value": "Supports"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS1",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Same amino acid change as an established pathogenic variant"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Computational And Predictive Data"
+                        },
+                        "Links": {
+                          "items": [
+                            {
+                              "Link": {
+                                "value": "https://www.ncbi.nlm.nih.gov/pubmed/16401742",
+                                "properties": {
+                                  "Comment": {
+                                    "value": null
+                                  },
+                                  "Link Code": {
+                                    "value": "Supports"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "Evidence Tag": {
+                  "properties": {
+                    "Tag": {
+                      "value": "PS3",
+                      "properties": {
+                        "Status": {
+                          "value": "On"
+                        },
+                        "Summary": {
+                          "value": "Well-established functional studies show a deleterious effect"
+                        },
+                        "Pathogenicity": {
+                          "value": "Pathogenic"
+                        },
+                        "Strength": {
+                          "value": "Strong"
+                        },
+                        "Type": {
+                          "value": "Functional Data"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
